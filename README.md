@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" width="100%" alt="Banner"/>
+<img src="./1781369494653.jpg" alt="Atul Kumar Banner" width="100%" />
+
 
 # 👋 Hello, I'm Atul Kumar
 
